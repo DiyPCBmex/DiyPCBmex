@@ -6,6 +6,8 @@
 - 📫 Me pueden contactar con una simple busqueda en facebook
 - 😄 Espero la informacion les sea util
 - ⚡ Estamos cada dia nutriendo y mejorando el sitio y la informacion
+
+
 COMO EMPEZAR A DISEñAR UNA PC
 
 https://youtu.be/gCwibH1YeiY?si=kCjhUwOdLlQBKJiA
