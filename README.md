@@ -8,7 +8,7 @@
 - ⚡ Estamos cada dia nutriendo y mejorando el sitio y la informacion
 
 
-COMO EMPEZAR A DISEñAR UNA PC
+COMO EMPEZAR A DISEñAR UNA PCB
 
 https://youtu.be/gCwibH1YeiY?si=kCjhUwOdLlQBKJiA
 
