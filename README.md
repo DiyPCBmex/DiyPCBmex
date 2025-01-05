@@ -6,6 +6,17 @@
 - 📫 Me pueden contactar con una simple busqueda en facebook
 - 😄 Espero la informacion les sea util
 - ⚡ Estamos cada dia nutriendo y mejorando el sitio y la informacion
+COMO EMPEZAR A DISEñAR UNA PC
+
+https://youtu.be/gCwibH1YeiY?si=kCjhUwOdLlQBKJiA
+
+INTRODUCCION A SPEEDUINO
+
+https://youtu.be/7M12F9-XDjw?si=SqII-jrwF8ianK1o
+
+MANUAL DE SPEEDUINO
+
+https://speeduino.com/Speeduino_manual.pdf
 
 <!---
 DiyPCBmex/DiyPCBmex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
